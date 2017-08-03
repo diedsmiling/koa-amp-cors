@@ -20,6 +20,6 @@ const app = new Koa();
 app.use(require('koa-amp-cors')());
 ```
 
-#License
+# License
 
 MIT
